@@ -1,0 +1,33 @@
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #16141b;
+}
+body {
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  background-image: url(../img/fondo.jpg);
+  background-size: cover;
+  background-position: center center; 
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.subtitle {
+    color: #ffa300;
+    font-family: 'News Cycle', sans-serif;
+    letter-spacing: 4px;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
